@@ -334,7 +334,7 @@ body{
 .image span{
     padding: .7rem;
     position: absolute;
-    width: 37%;
+    display: flex;
     z-index: 1;
 }
 
